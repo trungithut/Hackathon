@@ -1,0 +1,44 @@
+#MainContainer {
+	background-image: url(../images/mobile.png);
+	background-repeat: no-repeat;
+	height: 523px;
+	width: 290px;
+}
+#registering {
+	margin: 0px;
+	padding: 0px;
+}
+
+#registering #register {
+	float: left;
+	margin-top: 120px;
+	margin-right: 0px;
+	margin-left: 50px;
+}
+#registering #unregister {
+	margin-left: 65px;
+	margin-top: 81px;
+	float: left;
+}
+#call #acceptCall {
+	background-color: #009900;
+	border: 1px solid #333333;
+	margin-left: 45px;
+	float: left;
+}
+#call #ring {
+	background-image: url(../images/call.png);
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 200px;
+	border: none;
+	margin: 0px;
+	margin-left: 45px;
+}
+
+#call #endCall {
+	background-color: #FF0000;
+	border: 1px solid #000000;
+	margin-left: 2px;
+	float:left;
+}
